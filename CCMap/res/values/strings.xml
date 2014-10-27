@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CCMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="demo_name_panorama">全景图功能</string>
+    <string name="demo_name_basemap">基本地图功能</string>
+    <string name="demo_name_offline">离线地图功能</string>
+
+</resources>
